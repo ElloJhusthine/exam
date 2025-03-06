@@ -5,27 +5,21 @@
             "semester": "1st Semester",
             "subjects": [
                 "Introduction to Computing",
-                "Computer Programing 1",
-                "Purposive Communication",
-                "Readings in Philippine History",
-                "The Contemporary World"
-                "Mathematics in the Modern World"
-                "Movement Enhancement"
-                "ROTC/CWTS/LTS I"
+                "Programming 1",
+                "Mathematics for Computing",
+                "English Communication 1",
+                "Physical Education 1"
             ]
         },
         {
             "year": "1st Year",
             "semester": "2nd Semester",
             "subjects": [
-                "Computer Programing 2",
-                "Data Structures and Algorithms",
+                "Data Structures",
+                "Programming 2",
                 "Discrete Mathematics",
-                "	Art Appreciation",
-                "Understanding the Self"
-                "Fitness Activity and Exercises"
-                "ROTC/CWTS/LTS II"
-                "Science, Technology and Society"
+                "English Communication 2",
+                "Physical Education 2"
             ]
         },
         {
