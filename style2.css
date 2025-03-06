@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #eef2f3;
+    background-color: #fce4ec;
     color: #333;
     text-align: center;
     padding: 20px;
@@ -35,7 +35,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    color: #f4a261;
+    color: #8e44ad;
 }
 
 .image-section {
